@@ -1,17 +1,17 @@
 # Nothing Files
 
-\<p align="center">
-&#x20; \<b>Everything in its place. Nothing in your way.\</b>
-&#x20; \<br/>
-&#x20; A minimalist Android file manager inspired by Nothing OS.
-\</p>
+<p align="center">
+<b>Everything in its place. Nothing in your way.</b>
+<br/>
+A minimalist Android file manager inspired by Nothing OS.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square\&logo=jetpackcompose\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)" />
-\</p>
+<p align="center">
+<img src="[https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)" />
+<img src="[https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square\&logo=jetpackcompose\&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)" />
+</p>
 
 ---
 
@@ -111,8 +111,8 @@ License information will be added soon.
 
 ---
 
-\<p align="center">
-&#x20; \<b>Nothing Files\</b>
-&#x20; \<br/>
-&#x20; Made with Kotlin.
-\</p>
+<p align="center">
+<b>Nothing Files\</b>
+<br/>
+Made with Kotlin.
+</p>
