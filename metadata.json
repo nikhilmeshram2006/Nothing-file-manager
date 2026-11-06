@@ -1,0 +1,6 @@
+{
+  "name": "Nothing files",
+  "description": "Minimalist NothingOS file manager with dot-matrix aesthetics, smooth physics transitions, categorized browsing, internal storage navigation, encrypted vault with biometric security, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
