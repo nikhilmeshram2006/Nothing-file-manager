@@ -112,7 +112,7 @@ License information will be added soon.
 ---
 
 <p align="center">
-<b>Nothing Files\</b>
+<b>Nothing Files</b>
 <br/>
 Made with Kotlin.
 </p>
